@@ -1,0 +1,21 @@
+# 📊 DATABASE — Idea Pressure Test Results
+
+| Idea | Tested | Verdict | Scorecard | Summary |
+|------|--------|---------|-----------|---------|
+| [AI Focus Lock](ai-focus-lock.md) | 2026-05-05 | Pivot required | 3.0/5 | Refund retention hook is clever but makes profit-from-failure inevitable. Privacy barrier, willpower paradox, and crowded market make this a feature looking for a product |
+| [OpenClaw Agent Marketplace](openclaw-agent-marketplace.md) | 2026-05-05 | Pivot required | 2.3/5 | Premature marketplace for an emerging platform — solves no acute pain, pricing indefensible against free self-setup. Pivot to agency model or wait for distribution |
+| [Vietnam Real Estate AI Listing Tool](vietnam-real-estate-ai-listing-tool.md) | 2026-05-05 | Strong | 4.0/5 | Real Vietnamese real estate pain, fast to validate manually, strong founder advantage. Ceiling is micro-SaaS not unicorn, but the idea is sound |
+| [PenguinDiscount](penguindiscount.md) | 2026-05-05 | Strong | 3.2/5 | Real emerging market niche validated by scraping tests. Fragile moat (scraping maintenance), weak ad economics, fuzzy subscription buyer. Works as a niche micro-SaaS |
+| [Local Business Online Visibility Service](local-business-online-visibility-service.md) | 2026-05-05 | Weak | 3.5/5 | Stronger than original — concrete value prop, instant validation, low sales cost via channel partnerships. But low revenue ceiling and easily replicated; a micro-service not a startup |
+| [Website for Local Vietnam Businesses](website-for-local-vietnam-businesses.md) | 2026-05-05 | Weak | 3.0/5 | Real insight (tourist-facing businesses lack web presence), but unit economics don't hold — high CAC, low willingness to pay, no recurring revenue |
+| [AI Accountability Partner](ai-accountability-partner.md) | 2026-05-05 | Weak | 2.8/5 | Charity deposit fixes the moral hazard but the AI adds nothing the loop needs — StickK already does commitment contracts. Without verification the honour system leaks money |
+| [AI Website SaaS for Vietnam Micro-Businesses](ai-website-saas-vietnam-micro-businesses.md) | 2026-05-05 | Weak | 2.8/5 | Highest ceiling (recurring revenue, scale) but hardest path — slow to validate, brutal customer acquisition, payment friction, high churn risk |
+| [Human AI Training Marketplace](human-ai-training-marketplace.md) | 2026-05-05 | Weak | 2.8/5 | Generic data-labeling marketplace can't beat Scale AI. Only viable as a Vietnamese document annotation niche play |
+| [YouTube Creator Clip SaaS](youtube-creator-clip-saas.md) | 2026-05-05 | Weak | 2.7/5 | Real problem but CapCut is free and excellent; only viable in a specific niche CapCut serves poorly (podcasts, education, gaming) |
+| [SE Asia E-Commerce AI Listing Tool](sea-ecommerce-ai-listing-tool.md) | 2026-05-05 | Weak | 2.5/5 | Seller margins too thin, free alternatives exist, platform AI tools are coming. Weak vs. the real estate niche |
+| [Stock Market Bot](stock-market-bot.md) | 2026-05-05 | Weak | 2.5/5 | Strategy is simple and public; no moat against free tools; vitamin not painkiller |
+| [AI Agent Worker Marketplace](ai-agent-worker-marketplace.md) | 2026-05-05 | Weak | 2.0/5 | $1/job AI marketplace competes against free LLMs with terrible unit economics; needs a hard pivot |
+| [AI Newsletter Empire](ai-newsletter-empire.md) | 2026-05-05 | Weak | 2.0/5 | Meta-business model with no niche, no voice, no moat — AI automation is table stakes, not a differentiator. Ad monetization assumed not earned |
+| [Automated Clips Channel](automated-clips-channel.md) | 2026-05-05 | Weak | 2.0/5 | Commodity clip farming with zero defensibility, terrible unit economics, and total algorithm dependence. Automation is table stakes, not a moat |
+| [World Newspaper Hub](world-newspaper-hub.md) | 2026-05-05 | Weak | 1.7/5 | Copyright nightmare, zero urgency, free alternatives exist, community upload model creates legal liability. Could work as a hobby project but not as a business |
+| [YouTube Karaoke Channel](youtube-karaoke-channel.md) | 2026-05-05 | Weak | 1.5/5 | Fatal copyright risk, zero organic distribution, and no demand make this unbuildable as described |
