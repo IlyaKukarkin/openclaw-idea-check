@@ -90,6 +90,16 @@ If `DATABASE.md` doesn't exist, create it with an appropriate header and an empt
 
 Every time, after adding the new row, re-sort the entire table to maintain the sort invariant. Do not simply append.
 
+### Step 5b — Git Commit & Push
+
+Immediately after updating `DATABASE.md`, run the git workflow:
+
+1. **`git add`** — the new `{idea-name}.md` output file and `DATABASE.md` (and any other changed files).
+2. **`git commit -m "Tested idea: {Display Name}"`** — one commit per idea, no batching.
+3. **`git push origin main`** — always push to `main`, no branching.
+
+If the push fails (auth, network), report it to the user but keep the local commit. The commit message format for new ideas is `"Tested idea: {Display Name}"`. For revisions, use `"Update database: {change summary}"`.
+
 ### Step 6 — Report Back
 
 Send the user a summary message:
@@ -111,6 +121,7 @@ Offer to explain any output section in detail.
 - **Ask if ambiguous:** If the user provides a vague idea ("what about drones?"), ask a single clarifying question before running the test.
 - **No partial results:** If you cannot produce a complete framework evaluation, report the error and do not save a partial entry.
 - **Revision on request:** Any past entry can be re-tested. The old file is overwritten with a new timestamp.
+- **Git before report:** Files must be committed and pushed before reporting back to the user. If git fails, report the error and do not claim the entry was saved.
 
 ---
 
@@ -121,6 +132,7 @@ Offer to explain any output section in detail.
 | 2026-05-05 | Initial version created |
 | 2026-05-05 | Step 2: replaced npx CLI invocation with framework-application instructions |
 | 2026-05-05 | Step 4/5/6: updated verdict labels to Strong/Weak/Pivot required |
+| 2026-05-06 | Step 5b: added Git Commit & Push workflow; updated Decision Rules |
 
 ---
 

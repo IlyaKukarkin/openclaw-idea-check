@@ -99,6 +99,21 @@ One sentence.
 - Sorted by Verdict group (alphabetically), then Scorecard (descending).
 - Each idea name linked to its output file: [Name](name.md).
 
+### Git Integration — Post-Update Workflow
+
+After every update to `DATABASE.md` (adding a new idea, re-sorting, or editing an existing row), the following git steps **must** be run immediately:
+
+1. **`git add`** any changed files (the new `{idea-name}.md` output file and `DATABASE.md`).
+2. **`git commit`** with a descriptive message summarising the change (e.g. `"Tested idea: Left-Handed Artist Box"`).
+3. **`git push origin main`** — always push to `main`, no branching.
+
+Conventions:
+- Commit message format: `"Tested idea: {Display Name}"` for new ideas, `"Update database: {change summary}"` for revisions.
+- Do not batch multiple unrelated ideas into one commit — each idea run gets its own atomic commit.
+- If a push fails (network issue, auth), report the failure to the user but do not block — the local commit is already saved.
+
+This workflow is also codified in `AGENTS.md` as a mandatory post-Step-5 step.
+
 ### Error Handling
 - Framework evaluation failure → report error to user, do not create partial entry.
 - Parsing failure → save the evaluation output as {idea-name}.md anyway, flag as "unparseable" in database.
