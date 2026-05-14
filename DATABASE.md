@@ -14,7 +14,7 @@
 | [YouTube Creator Clip SaaS](youtube-creator-clip-saas.md) | 2026-05-05 | Weak | 2.7/5 | Real problem but CapCut is free and excellent; only viable in a specific niche CapCut serves poorly (podcasts, education, gaming) |
 | [SE Asia E-Commerce AI Listing Tool](sea-ecommerce-ai-listing-tool.md) | 2026-05-05 | Weak | 2.5/5 | Seller margins too thin, free alternatives exist, platform AI tools are coming. Weak vs. the real estate niche |
 | [Stock Market Bot](stock-market-bot.md) | 2026-05-05 | Weak | 2.5/5 | Strategy is simple and public; no moat against free tools; vitamin not painkiller |
-| [Photo Organizer App](photo-organizer-app.md) | 2026-05-14 | Weak | 2.8/5 | Free core removes purchase wall, influencer ICP improves targeting, $5 AI add-on via Ollama is plausible. Distribution and unit economics remain tough |
+| [Photo Organizer App](photo-organizer-app.md) | 2026-05-14 | Weak | 2.8/5 | Three-tier model (free → $5 one-time → $5/month) with AI showcase websites is genuinely differentiated. Distribution remains hardest problem, engineering scope grew significantly |
 | [AI Agent Worker Marketplace](ai-agent-worker-marketplace.md) | 2026-05-05 | Weak | 2.0/5 | $1/job AI marketplace competes against free LLMs with terrible unit economics; needs a hard pivot |
 | [AI Newsletter Empire](ai-newsletter-empire.md) | 2026-05-05 | Weak | 2.0/5 | Meta-business model with no niche, no voice, no moat — AI automation is table stakes, not a differentiator. Ad monetization assumed not earned |
 | [Automated Clips Channel](automated-clips-channel.md) | 2026-05-05 | Weak | 2.0/5 | Commodity clip farming with zero defensibility, terrible unit economics, and total algorithm dependence. Automation is table stakes, not a moat |
