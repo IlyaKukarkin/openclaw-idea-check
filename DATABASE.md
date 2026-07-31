@@ -3,6 +3,7 @@
 | Idea | Tested | Verdict | Scorecard | Summary |
 |------|--------|---------|-----------|---------|
 | [AI Focus Lock](ai-focus-lock.md) | 2026-05-05 | Pivot required | 3.0/5 | Refund retention hook is clever but makes profit-from-failure inevitable. Privacy barrier, willpower paradox, and crowded market make this a feature looking for a product |
+| [Website Renting](website-renting.md) | 2026-07-31 | Pivot required | 2.8/5 | Proven model but survivorship-biased pitch: fresh domain = 6-12 month ranking bet against map pack + AI Overviews, renters churn on ownership objection. Pivot to rent-to-own + performance pricing on one city-service pair |
 | [NexusNomad](nexusnomad.md) | 2026-06-29 | Pivot required | 2.6/5 | Real problem cluster for a dangerously small market. Full AI platform is 12+ months of engineering for a niche that may not exist. Pivot to B2B compliance or start with a manual service |
 | [OpenClaw Agent Marketplace](openclaw-agent-marketplace.md) | 2026-05-05 | Pivot required | 2.3/5 | Premature marketplace for an emerging platform — solves no acute pain, pricing indefensible against free self-setup. Pivot to agency model or wait for distribution |
 | [Online Corporate Celebrations](online-corporate-celebrations.md) | 2026-05-22 | Pivot required | 2.2/5 | Enterprise one-off events can't absorb procurement cost; nice-to-have pain with no recurring revenue makes unit economics structurally unsound |
