@@ -1,6 +1,6 @@
 # Website Renting
 
-**Tested:** 2026-07-31T13:40:00Z
+**Tested:** 2026-07-31T13:41:54Z (revision 2 — full playbook detail added: content depth, leads-first rental, rev share)
 **Submitted by:** Ilya
 
 **Source:** Chris Koerner / Luke — build niche "city + service" websites, rank them, rent them to local businesses for recurring monthly income.
@@ -8,44 +8,44 @@
 ---
 
 **Verdict**
-Pivot required — the mechanics are real and proven (Luke's 232 sites at 90% margins demonstrate the model works), but the pitch carries heavy survivorship bias and the easy era is over: a fresh domain in 2026 is a 6-12 month ranking bet against Google's map pack and AI Overviews, and renters churn once they realize they're paying monthly for a site they don't own. The core insight — find underserved local demand and sell leads, not websites — survives, but it needs a faster, incentive-aligned execution.
+Strong — this revision is the pivot the first test recommended, applied: you no longer rent websites, you rank deep-content lead sites and sell the leads to owners who have already proven they'll spend. The model is a proven solo-income playbook with bounded downside (~$100 + a month per site) and recurring upside (flat fee → 20% rev share), and churn no longer destroys the asset — you keep the ranking and re-rent. The ceiling is a lifestyle portfolio business, not a venture; ranking dependency on a shrinking organic channel is the load-bearing wall, and the $4k→$30k rev-share jump is outlier math until you have verified tracking.
 
 **Scorecard**
 | Area | Score | Read |
 |---|---:|---|
-| Pain intensity | 4/5 | Local service businesses genuinely need customers; leads are a painkiller, not a vitamin |
-| Buyer clarity | 3/5 | Clear ICP (owner-operator services in 60k-500k cities), but the decision-maker is hard to reach and skeptical |
-| Urgency | 3/5 | Owners always want more customers, but "rank in 6 months" isn't urgent; Yelp/Ads/Thumbtack promise faster |
-| Differentiation | 2/5 | Public playbook, already copied by thousands; edge is only "did the work first in an empty town" — no moat |
-| Speed to validate | 3/5 | Site builds in days, but ranking takes months; willingness-to-pay tests fast, ranking doesn't |
-| Founder advantage | 2/5 | No stated SEO, sales, or local-market advantage — and this model is 50% SEO, 50% cold calling |
+| Pain intensity | 4/5 | Real, proven spend: owners already buying Google/FB ads demonstrates the painkiller, not a vitamin |
+| Buyer clarity | 4/5 | ICP sharpened to ad-spending owners in 60k-500k cities; you call with customers in hand, not a website pitch |
+| Urgency | 3/5 | Leads in hand is urgent, but the trickle runs on Google's schedule — months of simmer before leverage exists |
+| Differentiation | 3/5 | Content depth + leads-first + rev share beats the rented-homepage crowd; still a public, copyable playbook |
+| Speed to validate | 3/5 | SERP audit is instant; ranking takes months; but willingness-to-pay is testable in week 1 via a free-leads pilot |
+| Founder advantage | 2/5 | No personal edge evidenced; the playbook is now concrete enough that diligence replaces talent — which also means anyone can copy it |
 
 **Core Assumption**
-A fresh "city + service" website can rank on Google page one in an underserved mid-sized city within months, and the local business will keep paying monthly rent for it.
+A fresh, deep-content "city + service" site can rank in a weak-competition small market within months, produce a trickle of leads, and ad-spending owners will pay a flat fee (later 20% rev share) on autopay for those leads.
 
 **Fatal Flaws**
 | Risk | Severity | Why It Matters | Fast Test |
 |---|---|---|---|
-| Ranking dependency on a shrinking channel | High | The whole model is page-one rank; AI Overviews + map pack eat organic clicks; a fresh domain is a 6-12 month bet with zero income in between | Audit 5 candidate SERPs: weak map pack + real organic gap? Count Google-owned vs independent results |
-| Renter churn / ownership objection | High | Renters cancel when calls slow or discover a one-time purchase exists; Luke's 90% margins assume multi-year retention that most operators don't get | Offer rent-to-own vs pure rent to 3 owners; measure 6-month retention and why they stay or leave |
-| Public playbook, no moat, no founder edge | Medium | Thousands run this exact model; the "empty room" heuristic is now a known keyword; success = SEO skill + cold-calling grind, neither evidenced | Build one site + 20 cold calls; if you can't get 3 conversations, stop |
+| Ranking dependency on a shrinking channel | High | The whole engine is fresh-domain organic ranking; map pack + AI Overviews + "zero backlinks" reality means 3-6+ months and no guaranteed trickle — no leads, no leverage | SERP audit of 5 candidates: weak map pack, no real competitor site, no exact-match player; if the map isn't begging, walk |
+| Rev-share verification & trust | High | 20% of revenue requires trusting owners to report truthfully and tracking lead-to-sale; once you prove the channel, owners will churn to cheaper DIY or ads | Start flat-fee only; offer rev share only to the 1-2 renters who accept call tracking + transparent reporting; verify with shadow calls and follow-up tests |
+| No moat / copyability | Medium | The playbook is now fully public and executable by anyone; your edge is only doing the work first in an empty market | Before investing a month, confirm the SERP gap is real — if a deep competitor site already exists for that city+service, move on |
 
 **Problem Reality**
-- Pain: Real — small service businesses lack leads and web presence. But the pain is "I need customers," not "I need a website"; the website is just the delivery vehicle.
-- Early adopter: Owner-operator towing/tree-service/pest-control companies in 60k-500k cities, no real site, surviving on referrals + Yelp + a Facebook page.
-- Vitamin or painkiller: Painkiller for the lead problem, but delivered as a vitamin — a website nobody asked for, sold on a promise of future rankings.
+- Pain: "I need customers" — leads-first finally delivers exactly that, which is why ad spenders say yes: there is no downside to taking free, qualified calls.
+- Early adopter: Owner-operator towing/tree-service/pest-control/radon companies in 60k-500k cities, already spending on Google/Facebook ads, weak or absent web presence.
+- Vitamin or painkiller: Painkiller — you show up with customers in hand, which is the one pitch with no downside.
 
 **Competition**
-- Current behavior: Referrals, Yelp, Thumbtack, Google Business Profile, Facebook page, or a one-time cheap website from a local agency.
-- Real enemy: Google itself (map pack + AI Overviews own the clicks) and the thousands of operators running this same public playbook — plus free GBP optimization, which is a near-perfect substitute for a rented site.
-- Differentiation needed: Not "a website" — guaranteed calls, performance pricing, or rent-to-own terms that make eventual ownership inevitable and churn irrational.
+- Current behavior: The owner already buys Google/Facebook ads, Yelp, Thumbtack — you are competing for their existing marketing budget, not for a new one.
+- Real enemy: Google's own lead-gen surfaces (Local Services Ads, map pack), other operators running this same public playbook, and the owner's eventual DIY once you prove the channel works.
+- Differentiation needed: Leads in hand at first contact, flat fee + autopay (control stays with you), and later rev share that makes you indispensable — none of which protects you from Google moving the goalposts.
 
 **First 10 Customers**
-1. Pick ONE verified-empty "city + service" pair using Luke's criteria (weak map pack, <10 reviews, no real site) and cold-call 20-30 owners before building anything.
-2. Sell the first 3 as rent-to-own at $350-500/mo with call tracking and a "free until it ranks" clause — this converts the ranking risk from theirs to yours.
-3. Use each renter's tracked calls as social proof for the next 7; offer existing renters a referral bonus.
+1. Pick ONE niche + ONE small city from Thumbtack's menu with a begging SERP (<10 reviews, no real site, no exact-match player); build deep per-service pages and a GBP, then let it simmer.
+2. Call owners already running ads — pitch with leads in hand: "I've got customers who want this, can we work out a cut?" No cold-void calls, ever.
+3. Test before trusting: follow-up must be same-day or they're gone; shadow call to hear how they answer the phone; lock in flat fee + Stripe autopay; only later restructure the top 1-2 clients to 20% rev share with verified tracking.
 
 **MVP**
-- Build: One WordPress site for one verified-empty keyword, call tracking, a 2-page pitch (rank timeline + rent-to-own terms).
-- Cut: The 232-site portfolio fantasy, multiple cities, automation, content farms, exact-match domain premiums.
-- 2-week test: Validate the SERP gap (days 1-2), cold-call 20 owners (week 1), secure 3 "interested if it ranks" commitments and 1 pilot (week 2). If owners won't take the call, the model dies before the site does.
+- Build: One deep site (1,000+ words per service page, questions mined from Reddit/Yelp via ChatGPT, 2-3x competitor depth), GBP, call tracking, leads-in-hand pitch with flat fee + autopay.
+- Cut: Multiple niches/cities, backlink building, rev share until trust + tracking exist, exact-match domain premiums, the 232-site fantasy.
+- 2-week test: Days 1-2 SERP audit of 5 candidates; week 1 pick one and write every page; week 2 publish + GBP + call 10 ad-spenders with a free-leads pilot. If no owner engages with free leads, kill it before the simmer starts.
