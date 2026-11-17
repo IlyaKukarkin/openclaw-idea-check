@@ -2,6 +2,7 @@
 
 **Tested:** 2026-11-15T09:05Z
 **Submitted by:** Ilya
+**Addendum:** [Monetization & pipeline](spoiler-free-book-reader-monetization.md)
 
 ---
 
